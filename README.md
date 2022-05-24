@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @S-HEMANTH-REDDY
+- 👀 I’m interested in science pretty much.
+- 🌱 I’m currently learning dsa.
