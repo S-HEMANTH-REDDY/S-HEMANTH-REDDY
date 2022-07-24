@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @S-HEMANTH-REDDY
-- 👀 I’m interested in science pretty much.
-- 🌱 I’m currently learning dsa.
+- 👀 I’m interested in tech  much.
+- 🌱 Good with c,c++,java,dsa,front end.
