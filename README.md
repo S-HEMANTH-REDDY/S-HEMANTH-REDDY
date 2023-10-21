@@ -9,7 +9,7 @@
 
 ###
 
-<img src="ttps://i.imgflip.com/65efzo.gif">
+<img height="50px" width="50px" src="ttps://i.imgflip.com/65efzo.gif">
 
 ###
 
