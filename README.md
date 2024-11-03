@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hemanth Reddy and I'm a final year student of  Matrusri Engineering College.</h2>
+<h2 align="left">Hi 👋! My name is Hemanth Reddy and I'm a Computer Science student at university of Florida Fall 2024.</h2>
 
 ###
 
