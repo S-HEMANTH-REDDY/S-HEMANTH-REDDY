@@ -242,9 +242,7 @@
   <img src="https://komarev.com/ghpvc/?username=S-HEMANTH-REDDY&label=Profile%20views&color=7E57FF&style=for-the-badge" /> 
 </div>
 
-<div align="center">
-  <img src="https://github.com/S-HEMANTH-REDDY/S-HEMANTH-REDDY/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7E57FF&height=120&section=footer&fontSize=50" width="100%"/>
