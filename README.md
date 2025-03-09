@@ -261,7 +261,9 @@
   <img src="https://komarev.com/ghpvc/?username=S-HEMANTH-REDDY&label=Profile%20views&color=7E57FF&style=for-the-badge" /> 
 </div>
 
-
+<div align="center">
+  <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z1cTRiMDRtNWF2c3d3dWt2NHNvcDU5c3RlYWVyeDVvemQ5N2JhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7E57FF&height=120&section=footer&fontSize=50" width="100%"/>
