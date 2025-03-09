@@ -64,140 +64,164 @@
 ## 🛠️ Tech Stack 
 
 <h3 align="center">Programming Languages</h3>
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin-bottom:30px">
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    <span>Python</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-    <span>JavaScript</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="50" height="50"/>
-    <span>Go</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-    <span>C++</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-    <span>Java</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-    <span>C</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="50" height="50"/>
-    <span>R</span>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" alt="Go"/>
+      <br>Go
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+      <br>C++
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+      <br>C
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R"/>
+      <br>R
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+      <br>TypeScript
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Frontend & Backend</h3>
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin-bottom:30px">
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-    <span>React</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
-    <span>Node.js</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50" style="background-color:white;border-radius:5px;padding:3px"/>
-    <span>Express</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
-    <span>HTML5</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
-    <span>CSS3</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
-    <span>Bootstrap</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="50" height="50"/>
-    <span>Material UI</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/>
-    <span>Angular</span>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express" style="background-color:#ffffff; border-radius:5px; padding:5px;"/>
+      <br>Express
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+      <br>HTML5
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+      <br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" alt="Material UI"/>
+      <br>Material UI
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular"/>
+      <br>Angular
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Database & DevOps</h3>
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin-bottom:30px">
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
-    <span>MongoDB</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
-    <span>MySQL</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/>
-    <span>Redis</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
-    <span>Docker</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="50"/>
-    <span>Kubernetes</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50"/>
-    <span>AWS</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="50" height="50"/>
-    <span>GCP</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-    <span>Git</span>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis"/>
+      <br>Redis
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS"/>
+      <br>AWS
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="GCP"/>
+      <br>GCP
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">ML/AI & Data Science</h3>
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin-bottom:30px">
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/>
-    <span>TensorFlow</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/>
-    <span>PyTorch</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-    <span>Pandas</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
-    <span>NumPy</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-    <span>Scikit-learn</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
-    <span>OpenCV</span>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;margin:10px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="50" height="50"/>
-    <span>Keras</span>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
+      <br>PyTorch
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+      <br>Pandas
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+      <br>NumPy
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn"/>
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" alt="OpenCV"/>
+      <br>OpenCV
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" height="50" alt="Keras"/>
+      <br>Keras
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
+      <br>Jupyter
+    </td>
+  </tr>
+</table>
 
 <hr style="height:2px;border:none;color:#7E57FF;background-color:#7E57FF;margin-top:20px;margin-bottom:20px">
 
