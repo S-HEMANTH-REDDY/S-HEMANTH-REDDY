@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E57FF&height=190&section=header&text=Hemanth%20Reddy&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=4000&pause=1000&color=7E57FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Hemanth+Reddy;Machine+Learning+Enthusiast;Full+Stack+Developer;MS+CS+@+University+of+Florida" alt="Typing SVG" />
 </div>
 
@@ -14,9 +18,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=S-HEMANTH-REDDY&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
-## 💫 About Me
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding animation"/>
 
-<img align="right" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpeXEzaTR0aDlpYXM5cG10dDJhcnY3dmVpM2R2bmJmNzZseTkxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:10px;"/>
+## 💫 About Me
 
 <p align="left">
   <b>Master's in Computer Science @ University of Florida</b> | Expected: Dec 2025
@@ -31,7 +35,10 @@
 </p>
 
 <br clear="both">
-<hr style="height:2px;border:none;color:#7E57FF;background-color:#7E57FF;margin-bottom:20px">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🚀 Featured Projects
 
@@ -59,9 +66,13 @@
   </a>
 </div>
 
-<hr style="height:2px;border:none;color:#7E57FF;background-color:#7E57FF;margin-top:20px;margin-bottom:20px">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🛠️ Tech Stack 
+
+<img align="left" width="150" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpxaTZtNmczYTZoOXBwbnNhZ3I2b3EzM2ZkZnZrazVxcXA0NTA3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIGT8Y1rOYhBpdHWac/giphy.gif"/>
 
 <h3 align="center">Programming Languages</h3>
 <table align="center">
@@ -143,6 +154,8 @@
   </tr>
 </table>
 
+<img align="right" width="150" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl6OWpnbnFkZ3hjdHZ2ZmNwbnBub2M1c3AxeGh0b3V2Z3pqOGlvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"/>
+
 <h3 align="center">Database & DevOps</h3>
 <table align="center">
   <tr>
@@ -223,7 +236,9 @@
   </tr>
 </table>
 
-<hr style="height:2px;border:none;color:#7E57FF;background-color:#7E57FF;margin-top:20px;margin-bottom:20px">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 📊 GitHub Stats 
 
@@ -238,11 +253,17 @@
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/S-HEMANTH-REDDY/S-HEMANTH-REDDY/output/github-contribution-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
+
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=S-HEMANTH-REDDY&label=Profile%20views&color=7E57FF&style=for-the-badge" /> 
 </div>
 
-
+<div align="center">
+  <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z1cTRiMDRtNWF2c3d3dWt2NHNvcDU5c3RlYWVyeDVvemQ5N2JhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7E57FF&height=120&section=footer&fontSize=50" width="100%"/>
