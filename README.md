@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E57FF&height=190&section=header&text=Hemanth%20Reddy&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=4000&pause=1000&color=7E57FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Hemanth+Reddy;Machine+Learning+Enthusiast;Full+Stack+Developer;MS+CS+@+University+of+Florida" alt="Typing SVG" />
 </div>
 
@@ -18,29 +14,26 @@
   <img src="https://github-profile-trophy.vercel.app/?username=S-HEMANTH-REDDY&theme=onedark&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding animation"/>
+<h2>🚶 About Me</h2>
 
-## 💫 About Me
-
-<p align="left">
-  <b>Master's in Computer Science @ University of Florida</b> | Expected: Dec 2025
-  <br><br>
-  🔬 Currently working as a <b>Research Assistant</b> at UF's Precision Agriculture Laboratory
-  <br><br>
-  🚀 Passionate about developing <b>innovative web applications</b> and <b>ML models</b>
-  <br><br>
-  🌱 Focusing on <b>CNN models</b> for real-time plant monitoring with 97% accuracy
-  <br><br>
-  💡 Experience with <b>DRDO</b> developing aircraft identification systems and navigation algorithms
-</p>
-
-<br clear="both">
+<div style="display:flex;">
+  <div style="flex:1;">
+    <p><b>Master's in Computer Science @ University of Florida</b> | Expected: Dec 2025</p>
+    <p>🔬 Currently working as a <b>Research Assistant</b> at UF's Precision Agriculture Laboratory</p>
+    <p>🚀 Passionate about developing <b>innovative web applications</b> and <b>ML models</b></p>
+    <p>🌱 Focusing on <b>CNN models</b> for real-time plant monitoring with 97% accuracy</p>
+    <p>💡 Experience with <b>DRDO</b> developing aircraft identification systems and navigation algorithms</p>
+  </div>
+  <div>
+    <img align="right" width="400" src="https://cdn.jsdelivr.net/gh/S-HEMANTH-REDDY/S-HEMANTH-REDDY/images/coding.svg" alt="Coding animation"/>
+  </div>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
 <div align="center">
   <a href="https://github.com/S-HEMANTH-REDDY/Quick_Chat">
@@ -70,177 +63,161 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🛠️ Tech Stack 
+<h2>🔧 Tech Stack</h2>
 
-<img align="left" width="150" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpxaTZtNmczYTZoOXBwbnNhZ3I2b3EzM2ZkZnZrazVxcXA0NTA3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIGT8Y1rOYhBpdHWac/giphy.gif"/>
+<h3>Programming Languages</h3>
+<div style="display:grid; grid-template-columns: repeat(8, 1fr); gap:10px; background-color:#0D1117;">
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+    <br>Python
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+    <br>JavaScript
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" alt="Go"/>
+    <br>Go
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+    <br>C++
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+    <br>Java
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+    <br>C
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R"/>
+    <br>R
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+    <br>TypeScript
+  </div>
+</div>
 
-<h3 align="center">Programming Languages</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-      <br>Python
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" alt="Go"/>
-      <br>Go
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-      <br>C++
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-      <br>Java
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
-      <br>C
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R"/>
-      <br>R
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
-      <br>TypeScript
-    </td>
-  </tr>
-</table>
+<h3>Frontend & Backend</h3>
+<div style="display:grid; grid-template-columns: repeat(8, 1fr); gap:10px; background-color:#0D1117;">
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+    <br>React
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+    <br>Node.js
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" style="background-color:#ffffff; border-radius:5px; padding:5px;"/>
+    <br>Express
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+    <br>HTML5
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+    <br>CSS3
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+    <br>Bootstrap
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" alt="Material UI"/>
+    <br>Material UI
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
+    <br>Angular
+  </div>
+</div>
 
-<h3 align="center">Frontend & Backend</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
-      <br>React
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
-      <br>Node.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express" style="background-color:#ffffff; border-radius:5px; padding:5px;"/>
-      <br>Express
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-      <br>HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-      <br>CSS3
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" alt="Material UI"/>
-      <br>Material UI
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular"/>
-      <br>Angular
-    </td>
-  </tr>
-</table>
+<h3>Database & DevOps</h3>
+<div style="display:grid; grid-template-columns: repeat(8, 1fr); gap:10px; background-color:#0D1117;">
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+    <br>MongoDB
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+    <br>MySQL
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+    <br>Redis
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+    <br>Docker
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+    <br>Kubernetes
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+    <br>AWS
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP"/>
+    <br>GCP
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+    <br>Git
+  </div>
+</div>
 
-<img align="right" width="150" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl6OWpnbnFkZ3hjdHZ2ZmNwbnBub2M1c3AxeGh0b3V2Z3pqOGlvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"/>
+<h3>ML/AI & Data Science</h3>
+<div style="display:grid; grid-template-columns: repeat(8, 1fr); gap:10px; background-color:#0D1117;">
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+    <br>TensorFlow
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+    <br>PyTorch
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+    <br>Pandas
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+    <br>NumPy
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
+    <br>Scikit-learn
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/>
+    <br>OpenCV
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40" alt="Keras"/>
+    <br>Keras
+  </div>
+  <div style="text-align:center; padding:10px; background-color:#1A1B26; border-radius:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+    <br>Jupyter
+  </div>
+</div>
 
-<h3 align="center">Database & DevOps</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
-      <br>MongoDB
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-      <br>MySQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis"/>
-      <br>Redis
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>
-      <br>AWS
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="GCP"/>
-      <br>GCP
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-      <br>Git
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">ML/AI & Data Science</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
-      <br>PyTorch
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
-      <br>Pandas
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
-      <br>NumPy
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn"/>
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" alt="OpenCV"/>
-      <br>OpenCV
-    </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" height="50" alt="Keras"/>
-      <br>Keras
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
-      <br>Jupyter
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7ii/giphy.gif" width="100" alt="Eat Sleep Code Repeat"/>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 📊 GitHub Stats 
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-HEMANTH-REDDY&theme=midnight-purple&hide_border=true&background=0D1117&stroke=7E57FF&fire=FF428E&currStreakLabel=FF428E&ring=7E57FF" height="180" />
@@ -253,16 +230,8 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/S-HEMANTH-REDDY/S-HEMANTH-REDDY/output/github-contribution-snake.svg" alt="Snake Animation" width="100%"/>
-</div>
-
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=S-HEMANTH-REDDY&label=Profile%20views&color=7E57FF&style=for-the-badge" /> 
-</div>
-
-<div align="center">
-  <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z1cTRiMDRtNWF2c3d3dWt2NHNvcDU5c3RlYWVyeDVvemQ5N2JhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"/>
 </div>
 
 <div align="center">
