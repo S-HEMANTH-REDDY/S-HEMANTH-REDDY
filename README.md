@@ -16,7 +16,7 @@
 <img align="right" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThpeXEzaTR0aDlpYXM5cG10dDJhcnY3dmVpM2R2bmJmNzZseTkxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:10px;"/>
 
 <p align="left">
-  <b>Master's in Computer Science @ University of Florida</b> | Expected: Dec 2025
+  <b>Master's in Computer Science @ University of Florida</b> | Expected: May 2026
   <br><br>
   🔬 Currently working as a <b>AI Engineer</b> at UF's Precision Agriculture Laboratory
   <br><br>
