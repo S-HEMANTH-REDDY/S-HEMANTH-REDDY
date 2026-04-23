@@ -21,10 +21,7 @@
   🔬 Currently working as a <b>AI Engineer</b> at UF's Precision Agriculture Laboratory
   <br><br>
   🚀 Passionate about developing <b>innovative web applications</b> and <b>ML models</b>
-  <br><br>
-  🌱 Focusing on <b>CNN models</b> for real-time plant monitoring with 97% accuracy
-  <br><br>
-  💡 Experience with <b>DRDO</b> developing aircraft identification systems and navigation algorithms
+
 </p>
 
 <br clear="both">
