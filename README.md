@@ -18,7 +18,7 @@
 <p align="left">
   <b>Master's in Computer Science @ University of Florida</b> | Expected: Dec 2025
   <br><br>
-  🔬 Currently working as a <b>Research Assistant</b> at UF's Precision Agriculture Laboratory
+  🔬 Currently working as a <b>AI Engineer</b> at UF's Precision Agriculture Laboratory
   <br><br>
   🚀 Passionate about developing <b>innovative web applications</b> and <b>ML models</b>
   <br><br>
