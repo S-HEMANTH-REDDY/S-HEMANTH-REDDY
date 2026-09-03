@@ -1,65 +1,60 @@
 # Hemanth Reddy Sankaramaddi
 
-**Software Engineer (Backend / Distributed Systems) + AI Engineer · MS CS, University of Florida (May 2026)**
+**Software Engineer + AI Engineer**
+Backend · Distributed Systems · Applied ML
 
-I build distributed backend systems and applied-ML pipelines end to end — event-driven
-microservices in Go, high-throughput real-time services, performance-critical C++, and
-production computer-vision models. First-author on two peer-reviewed CV/AI papers from
-UF's IFAS Precision Agriculture Lab.
+MS CS, University of Florida — May 2026. First-author on two peer-reviewed
+CV/AI papers. I build backend systems and ML pipelines end to end.
 
-Open to full-time roles in backend, distributed systems, and ML/AI engineering.
+Open to full-time SDE / ML engineering roles.
 
-📧 hemanth1729hr@gmail.com &nbsp;·&nbsp;
-[LinkedIn](https://linkedin.com/in/hemanth-reddy-uf) &nbsp;·&nbsp;
-[Portfolio](https://s-hemanth-reddy.github.io/Portfolio/) &nbsp;·&nbsp;
-[Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
+📧 hemanth1729hr@gmail.com  ·  [LinkedIn](https://linkedin.com/in/hemanth-reddy-uf)  ·  [Scholar](https://scholar.google.com/citations?user=-j3k51wAAAAJ)
 
 ---
 
 ### What I build
 
-**Distributed backends.** Go microservices, Kafka event pipelines with idempotent
-consumers and at-least-once delivery, Redis caching, PostgreSQL schema and query
-design. Built services sustaining thousands of concurrent connections and
-multi-thousand-event/sec throughput, tuned under k6 / load-generator tests.
+**Distributed backends** — Go microservices, Kafka pipelines, Redis, PostgreSQL.
+Services that hold thousands of concurrent connections and multi-thousand-event/sec
+throughput under load.
 
-**Applied ML & computer vision.** PyTorch pipelines for real-world agricultural vision
-— 2D-to-3D reconstruction and CNN-LSTM time-series detection. Two first-author papers
-(2026). Also profiling ML hot paths and reimplementing them in C++17 for measured
-multi-x latency wins.
+**Applied ML & computer vision** — PyTorch pipelines for real-world vision work.
+2D-to-3D reconstruction, CNN-LSTM time-series detection. Two first-author papers, 2026.
 
-**Systems & performance.** Multithreaded C++ over TCP, fault-tolerant containerized
-worker pools, CI/CD with GitHub Actions, observability with Prometheus / Grafana.
+**Performance** — profiling hot paths and rewriting them in C++17 for multi-x latency wins.
 
 ---
 
 ### Featured work
 
-| Project | What it is | Stack |
-|---|---|---|
-| **feed-engine** | Distributed Reddit-style feed backend — ingest, ranking, fan-out; idempotent consumers, ~3.2k events/sec on a 3-broker cluster | Go · Kafka · Redis · PostgreSQL |
-| **quick-chat** | Real-time chat service — 5k concurrent connections, 8.5k msg/sec, p99 42 ms under load | Go · WebSockets · Redis Pub/Sub |
-| **llm-inference-runtime** | LLM inference runtime — KV cache & continuous batching | Python · PyTorch · CUDA |
-| **gpu-kernels-dl** | Custom GPU kernels: tiled matmul, row-wise softmax, parallel reduction, benchmarked vs PyTorch | Triton · CUDA C++ |
-| **banking-systems** | Backend banking system modeling accounts, transactions, transfers | C++ |
-| **file-transfer-system** | Multithreaded client-server file transfer over TCP | C++ |
+**feed-engine** — Distributed Reddit-style feed backend. Ingest, ranking, fan-out with
+idempotent consumers; ~3.2k events/sec on a 3-broker cluster.
+`Go · Kafka · Redis · PostgreSQL`
+
+**quick-chat** — Real-time chat service. 5k concurrent connections, 8.5k msg/sec,
+p99 42 ms under load.
+`Go · WebSockets · Redis`
+
+**llm-inference-runtime** — LLM inference runtime with KV cache and continuous batching.
+`Python · PyTorch · CUDA`
+
+**gpu-kernels-dl** — Custom GPU kernels: tiled matmul, softmax, parallel reduction,
+benchmarked against PyTorch.
+`Triton · CUDA C++`
 
 ---
 
-### Selected research
+### Research
 
-- **2D-to-3D Image Reconstruction in Agriculture: A Review of Methods, Challenges, and
-  AI-Driven Opportunities.** Sankaramaddi, H., Lee, W. S., & Kim, K. *Sensors* 26(6), 2026.
-- **Time-Series Detection of Leaf Wetness Using a CNN-LSTM-Based Vision System in
-  Strawberry Farming.** Sankaramaddi, H., Lee, W. S., & Peres, N. A. *J. Biosyst. Eng.*
-  51(1), 19, 2026.
+**2D-to-3D Image Reconstruction in Agriculture** — a review of methods, challenges,
+and AI-driven opportunities. *Sensors* 26(6), 2026.
+
+**Time-Series Detection of Leaf Wetness** using a CNN-LSTM vision system in strawberry
+farming. *Journal of Biosystems Engineering* 51(1), 2026.
 
 ---
 
-### Core stack
+### Stack
 
-**Languages** Go · Python · Java · C++17 · TypeScript · SQL
-**Backend** FastAPI · Spring Boot · gRPC · REST · WebSockets · Kafka · Redis
-**Data** PostgreSQL · MySQL · MongoDB
-**ML** PyTorch · OpenCV · NumPy
-**Infra** Docker · AWS · GitHub Actions · Prometheus · Grafana · Linux
+`Go` `Python` `Java` `C++17` · `Kafka` `Redis` `PostgreSQL` `gRPC` `FastAPI` ·
+`PyTorch` `OpenCV` · `Docker` `AWS` `Linux`
