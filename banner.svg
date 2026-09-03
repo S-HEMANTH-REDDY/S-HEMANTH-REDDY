@@ -1,0 +1,8 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="220" rx="14" fill="#0d1117"/>
+  <rect width="7" height="220" fill="#e0552e"/>
+  <text x="48" y="88" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#f0f6fc">Hemanth Reddy Sankaramaddi</text>
+  <text x="48" y="126" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" font-weight="500" fill="#e0552e">Software Engineer · AI Engineer</text>
+  <text x="48" y="158" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" fill="#9da7b3">Backend systems, distributed pipelines, and applied computer vision.</text>
+  <text x="48" y="190" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#6e7681">M.S. Computer Science, University of Florida · May 2026</text>
+</svg>
